@@ -6,5 +6,12 @@ int CALLBACK WinMain(
     LPSTR lpCmdLine,
     int nCmdShow) {
 
+    MessageBox(
+        0,
+        "Hardcore stuff",
+        "Roots",
+        MB_OK | MB_ICONINFORMATION
+    );
+    
     return 0;
 }
