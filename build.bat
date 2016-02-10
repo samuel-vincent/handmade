@@ -2,5 +2,5 @@
 
 mkdir build
 pushd build
-cl "..\src\main_win32.cpp"
+cl -Zi "..\src\main_win32.cpp"
 popd
