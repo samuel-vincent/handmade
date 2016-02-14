@@ -1,6 +1,2 @@
 /build
-*.sdf
-*.obj
-*.pdb
-*.exe
-*.suo
+/dist
